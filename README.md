@@ -1,4 +1,4 @@
-# Hi there, I'm Adarsh Arora! 👋
+# Hi there, I'm Adarsh! 👋
 <!-- <p align="center"> <img src=https://komarev.com/ghpvc/?username=AdarshArora alt=AdarshArora/> </p> -->
 
 ## About Me
