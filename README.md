@@ -1,7 +1,7 @@
-# Hi there, I'm Adarsh! 👋
+# Hi there, I'm Adarsh Arora! 👋
 
 ## About Me
-I'm a passionate Big Data Engineering with a focus on building scalabale and efficient data pipelines in the cloud. I enjoy leveraging big data & cloud technologies to solve complex data challenges and optimize data processing workflows.
+I'm a passionate Big Data Engineer with a focus on building scalable and efficient data pipelines in the cloud. I enjoy leveraging big data & cloud technologies to solve complex data challenges and optimize data processing workflows.
 
 - 💼 Currently working at Mercedes-Benz as an AWS Data Engineer
 -  🌱 Constantly learning and exploring new tools and technologies in the big data ecosystem
