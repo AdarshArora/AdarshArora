@@ -1,4 +1,5 @@
 # Hi there, I'm Adarsh Arora! 👋
+<!-- <p align="center"> <img src=https://komarev.com/ghpvc/?username=AdarshArora alt=AdarshArora/> </p> -->
 
 ## About Me
 I'm a passionate Big Data Engineer with a focus on building scalable and efficient data pipelines in the cloud. I enjoy leveraging big data & cloud technologies to solve complex data challenges and optimize data processing workflows.
